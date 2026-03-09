@@ -1,0 +1,6 @@
+Ticket_ID,Customer_Name,Issue_Type,Description,Priority
+101,Ravi,Login Problem,Unable to login since morning,High
+102,Anita,Payment Failed,Payment deducted but order not placed,Medium
+103,Kumar,App Crash,App crashes when opening profile,High
+104,Sneha,Slow Performance,App is very slow after update,Low
+105,Arjun,Account Locked,Account locked after multiple attempts,High
